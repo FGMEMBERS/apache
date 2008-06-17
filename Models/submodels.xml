@@ -1,0 +1,51 @@
+ <!-- sidewinder left -->
+>PropertyList>
+
+  <submodel>
+    <name>sidewinderleft</name>
+    <model>Aircraft/apache/Models/weapons/sidewinderleft.ac</model>
+    <trigger>/controls/armament/triggersidewinderleft</trigger>
+    <!-- Max speed is mach4, but we'll start at mach 2-ish -->
+    <speed>1000</speed>
+    <repeat>false</repeat>
+    <count>1</count>
+    <x-offset>-60.0</x-offset>
+    <y-offset>-34</y-offset>
+    <z-offset>-2</z-offset>
+    <yaw-offset>0.0</yaw-offset>
+    <pitch-offset>0.0</pitch-offset>
+    <eda>0.0</eda>
+    <cd>0.0</cd>
+    <weight>390</weight>
+    <contents>/sim/armament/contents</contents>
+    <life>20</life>
+    <buoyancy>15</buoyancy>
+    <wind>false</wind>
+    <aero-stabilised>true</aero-stabilised>
+  </submodel>
+
+ <!-- sidewinder right) -->
+  <submodel>
+    <name>sidewinderright</name>
+    <model>Aircraft/apache/Models/weapons/sidewinderright.ac</model>
+    <trigger>/controls/armament/triggersidewinderright</trigger>
+    <!-- Max speed is mach4, but we'll start at mach 2-ish -->
+    <speed>1000</speed>
+    <repeat>false</repeat>
+    <count>1</count>
+    <x-offset>-60.0</x-offset>
+    <y-offset>-34</y-offset>
+    <z-offset>-2</z-offset>
+    <yaw-offset>0.0</yaw-offset>
+    <pitch-offset>0.0</pitch-offset>
+    <eda>0.0</eda>
+    <cd>0.0</cd>
+    <weight>390</weight>
+    <contents>/sim/armament/contents</contents>
+    <life>20</life>
+    <buoyancy>15</buoyancy>
+    <wind>false</wind>
+    <aero-stabilised>true</aero-stabilised>
+  </submodel>
+
+</PropertyList>

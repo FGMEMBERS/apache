@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>sidewinderleft.ac</path>
+ <offsets> 
+<x-m>0</x-m> 
+<y-m>0</y-m> 
+<z-m>0</z-m> 
+</offsets> 
+
+  <animation>
+    <type>select</type>
+    <object-name>sidewinderleft</object-name>      
+    <condition>
+      <and>
+        <equals>
+          <property>/sim/armament</property>
+          <value>BlackBuck6</value>
+        </equals>
+        <equals>
+          <property>/controls/armament/triggersidewinderleft</property>
+          <value>false</value>
+        </equals>
+      </and>
+    </condition>
+  </animation>
+
+
+  <animation>
+    <type>select</type>
+    <object-name>Smoke</object-name>      
+    <condition>
+      <and>
+        <equals>
+          <property>/sim/variant</property>
+          <value>wibble</value>
+        </equals>
+      </and>
+    </condition>
+  </animation>
+
+</PropertyList>
+

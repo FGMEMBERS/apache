@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0   spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "target" rgb 0.011765 0.05098 0.007843 amb 0.5 0.5 0.5 emis 1 1 1 spec 0.33 0.33 0.33 shi 32 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "Mesh1 Model_target"
+data 18
+Mesh1 Model_target
+texture "target.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+3.14518 2.47055 0.028033
+3.14518 2.47055 0.182045
+3.14518 2.41105 0.182045
+3.14518 2.41105 0.028033
+numsurf 1
+SURF 0x00
+mat 1
+refs 4
+0 0.967503011227 0.970155000687
+1 0.0284781996161 0.970155000687
+2 0.0338541008532 1.4210900455e-014
+3 0.972877979279 1.4210900455e-014
+kids 0
