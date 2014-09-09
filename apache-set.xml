@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!--
+    Usable with FlightGear
+    MaverickAlex
+    Copyright License:  GPL
+-->
+<!--
+************************************************************************
+
+************************************************************************
+-->
+
+<PropertyList>
+	<sim>
+		<description>Apache AH64 D Longbow</description>
+		<author>maverickalex</author>
+		<status>alpha, "GPL Copyright"</status>
+		<version> 0.1</version>
+		<flight-model>yasim</flight-model>
+		<aero>apache</aero>
+		<startup>
+		<splash-texture>Aircraft/apache/splash-apache.rgb</splash-texture>
+		</startup>
+		<fuel-fraction>0.8</fuel-fraction>
+		<sound>
+			<path>Aircraft/apache/Sounds/apache-sound.xml</path>
+		</sound>
+
+           <submodels>
+			<serviceable type="bool">true</serviceable>
+			<path>Aircraft/apache/Models/submodels.xml</path>
+		</submodels>
+
+	
+	<hud>
+	<enable3d>false</enable3d>
+	<visibility archive="n">false</visibility>
+	</hud>
+
+	<model>
+	<path>Aircraft/apache/Models/apachemodel/apache-model.xml</path>
+			<apache>
+				<nav-lights type="bool">true</nav-lights>
+				<state type="int">0</state>
+				<rotor-step-deg type="float">0.0</rotor-step-deg>
+			</apache>
+	</model>
+ 
+
+
+	<view n="0">
+   <internal archive="y">true</internal>
+   <config>
+    <x-offset-m archive="y" type="double">-0.23</x-offset-m>
+    <y-offset-m archive="y" type="double">2.65</y-offset-m>
+    <z-offset-m archive="y" type="double">3.70</z-offset-m>
+    <pitch-offset-deg>-7.5</pitch-offset-deg>
+   </config>
+  </view>
+
+
+  <view n="1">
+   <config>
+    <target-z-offset-m archive="y" type="double">9.0</target-z-offset-m>
+   </config>
+  </view>
+
+  <view n="2">
+   <config>
+    <target-z-offset-m archive="y" type="double">9.9</target-z-offset-m>
+   </config>
+  </view>
+
+  <view n="3">
+   <config>
+    <target-z-offset-m archive="y" type="double">9.0</target-z-offset-m>
+   </config>
+  </view>
+
+  <view n="4">
+   <config>
+    <target-z-offset-m archive="y" type="double">9.0</target-z-offset-m>
+   </config>
+  </view>
+  <view n="5">
+   <config>
+    <target-z-offset-m archive="y" type="double">9.0</target-z-offset-m>
+   </config>
+  </view>
+
+  <view n="6">
+   <config>
+    <target-z-offset-m archive="y" type="double">9.0</target-z-offset-m>
+   </config>
+  </view> 
+
+<view n="100">
+   <name>Gunner View</name>
+    <type>lookfrom</type>
+    <internal archive="y">true</internal>
+    <config>  
+            <from-model type="bool">true</from-model>
+            <from-model-idx type="int">0</from-model-idx>
+            <ground-level-nearplane-m type="double">0.03</ground-level-nearplane-m>
+            <x-offset-m archive="y">-0.11</x-offset-m>
+            <y-offset-m archive="y">2.38</y-offset-m>
+            <z-offset-m archive="y">2.08</z-offset-m>
+            <pitch-offset-deg>-10</pitch-offset-deg>
+            <default-field-of-view-deg>80.0</default-field-of-view-deg>
+    </config>
+   </view>
+
+
+
+  
+
+	<weight n="0">
+		<name>Pilot+copilot</name>
+		<weight-lb>400</weight-lb>
+		<max-lb>1000</max-lb>
+	</weight>
+
+	<help include="Help/apache-help.xml"/>
+
+	</sim>
+
+
+	<controls>
+		<flight>
+			<aileron-trim>-0.00000</aileron-trim>
+			<rudder-trim>-0.0000</rudder-trim>
+			<wing-fold>0</wing-fold>
+		</flight>
+		<engines>
+			<engine n="0">
+				<magnetos>0</magnetos>
+				<rotorgear>0</rotorgear>
+				<master-bat>false</master-bat>
+			</engine>
+		</engines>
+		<gear>
+			<brake-parking type="double">1.0</brake-parking>
+		</gear>
+		<rotor>
+		<brake>1</brake>
+		<fold-pos>0</fold-pos>
+		<folded>0</folded>
+		</rotor>
+		<electric>
+		<master-switch>false</master-switch>
+		<battery-switch>false</battery-switch>
+		</electric>
+		<switches>
+		<landing-light>true</landing-light>
+		<master-avionics>false</master-avionics>
+		</switches>
+		<lighting>
+		<instruments-norm type="double">0.4</instruments-norm>
+		</lighting>
+	</controls>
+
+<key>
+        <name>J</name>
+        <desc>Fire weaponry</desc>
+      </key>
+
+
+
+
+	<input include="Inputs/apache-input.xml"/>
+
+
+
+	<nasal>
+                <electrical>
+                        <file>Aircraft/apache/System/electrical.nas</file>
+                </electrical>
+		<apache>
+			<file>Aircraft/apache/System/apache.nas</file>
+		</apache>
+	</nasal>
+
+
+</PropertyList>

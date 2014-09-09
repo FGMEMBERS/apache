@@ -1,0 +1,234 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl throttle_layout
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout.JPG
+
+newmtl throttle_layout1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout1_.JPG
+
+newmtl throttle_layout2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout2_.JPG
+
+newmtl throttle_layout3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout3_.JPG
+
+newmtl throttle_layout4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout4_.JPG
+
+newmtl throttle_layout5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout5_.JPG
+
+newmtl throttle_layout6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout6_.JPG
+
+newmtl throttle_layout7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout7_.JPG
+
+newmtl throttle_layout8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout8_.JPG
+
+newmtl throttle_layout9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout9_.JPG
+
+newmtl throttle_layout10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout10_.JPG
+
+newmtl throttle_layout11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout11_.JPG
+
+newmtl throttle_layout12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout12_.JPG
+
+newmtl throttle_layout13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout13_.JPG
+
+newmtl throttle_layout14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout14_.JPG
+
+newmtl throttle_layout15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout15_.JPG
+
+newmtl throttle_layout16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout16_.JPG
+
+newmtl throttle_layout17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout17_.JPG
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl throttle_layout18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout18_.JPG
+
+newmtl throttle_layout19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout19_.JPG
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_006
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Redwood_
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.396078 0.321569
+Ks 0.330000 0.330000 0.330000
+
+newmtl throttle_layout20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout20_.JPG
+
+newmtl throttle_layout21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout21_.JPG
+
+newmtl ac3dmat1knob1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_007
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.227451 0.227451
+Ks 0.330000 0.330000 0.330000
+
+newmtl ac3dmat1
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.721569 0.721569
+Ks 0.330000 0.330000 0.330000
+
+newmtl throttle_layout22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout22_.JPG
+
+newmtl throttle_layout23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout23_.JPG
+
+newmtl throttle_layout24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout24_.JPG
+
+newmtl throttle_layout25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout25_.JPG
+
+newmtl throttle_layout26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout26_.JPG
+
+newmtl Color_F01
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_A01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl throttle_layout27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout27_.JPG
+
+newmtl throttle_layout28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout28_.JPG
+
+newmtl throttle_layout29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.168627 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd pilotcockpit_panel/throttle_layout29_.JPG
+
